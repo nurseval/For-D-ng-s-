@@ -1,2 +1,2 @@
-# For-D-ng-s-
+# For-Dongusu
 Karar Yapıları
